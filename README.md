@@ -23,4 +23,4 @@ pip -r requirements.txt
 python3 manage.py runserver
 ```
 
-# ! [Django documentation] (https://docs.djangoproject.com/en/5.1/)
+#  [Django documentation](https://docs.djangoproject.com/en/5.1/)
